@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCube.AspNetCore.Extensions", "CodeCube.AspNetCore.Extensions\CodeCube.AspNetCore.Extensions.csproj", "{6CC672F5-B7E0-4F56-935B-601E05634E99}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5990B3B9-C43B-4031-BE8C-B45592B29510}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		nuget-icon.png = nuget-icon.png
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
