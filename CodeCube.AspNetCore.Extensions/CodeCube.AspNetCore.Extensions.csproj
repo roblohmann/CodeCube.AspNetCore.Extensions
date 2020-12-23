@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+
+    <Authors>Rob Lohmann</Authors>
+    <PackageIconUrl>https://github.com/roblohmann/CodeCube.AspNetCore.Extensions/blob/main/nuget-icon.png?raw=true</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/roblohmann/CodeCube.AspNetCore.Extensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/roblohmann/CodeCube.AspNetCore.Extensions</RepositoryUrl>
+    <PackageTags>aspnetcore version header</PackageTags>
+    <Description>This library provides extensions for the .NET Core and .NET 5 framework in general</Description>
   </PropertyGroup>
 
   <ItemGroup>
