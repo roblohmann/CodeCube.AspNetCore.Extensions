@@ -22,7 +22,9 @@ on:
   release:
     types:
       - published
-  workflow_dispatch:
+  
+  #Allow manual trigger of build
+  #workflow_dispatch:
 
 jobs:
   build:
