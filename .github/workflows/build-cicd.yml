@@ -1,5 +1,8 @@
 name: .NET
 
+env:
+  PROJECT_NAME:  'CodeCube.AspNetCore.Extensions'
+
 on:
   push:
     branches: [ main ]
