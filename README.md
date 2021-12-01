@@ -1,15 +1,16 @@
 # CodeCube.AspNetCore.Extensions
 This library provides extensions for the .NET Core and .NET 5 framework in general
 
-# How to use
+# Examples
 
-## Add version header
+## Option 1
 
 The default implementation will add an 'x-application-header'-header to all the responses. The version is automatically taken from the entry assembly.
 ``` C#
 app.UseVersionHeader();
 ```
 
+## Option 2
 For improved flexibility it is also possible to provide the following options;
 ```C#
 app.UseVersionHeader(options =>
