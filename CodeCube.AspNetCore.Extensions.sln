@@ -13,8 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution-items", ".solutio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCube.AspNetCore.Extensions", "src\CodeCube.AspNetCore.Extensions\CodeCube.AspNetCore.Extensions.csproj", "{CE4BB664-8B64-4072-A39E-F5060C8A4503}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".azure-pipelines", ".azure-pipelines", "{6D0AE54F-D9E3-4BA9-8036-6F08223C3AE1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
