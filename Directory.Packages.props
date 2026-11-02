@@ -1,0 +1,12 @@
+<Project>
+
+  <!-- Central Package Management: alle NuGet-versies van deze repository staan hier. Projecten verwijzen alleen nog naar de package-naam. -->
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.9" />
+  </ItemGroup>
+
+</Project>
